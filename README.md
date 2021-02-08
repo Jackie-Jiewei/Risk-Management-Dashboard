@@ -9,5 +9,5 @@ The left side of this panel accepts parameters and dropdown selections to print 
 The users can change the time period and VaR level(Ex. 0.95, 0.975, 0.99) of the simulation. The upper graph will show the movement of portfolio returns, VaR and ES. Another comparison is on the lower graph, which shows the difference between normal, historical, and EWMA backtesting. The lamp on the upper right of the panel will turn red when the risk metrics reaches a dangerous level at present.
 ## Risk Management Tab - Risk Matrix Panel
 For a high-level view of options risk, the users can use the options risk matrix to see their risk position across multiple scenarios at once. The underlying scale and volatility scale text edit fields accept text numbers separated by commas to represent the percentage changes of the items. By selecting the risk metrics dropdown with multiple selections available, the users can see how these shocks would impact the risk level of their current positions in a landscape.    
-![Optional Text](../Risk-Management-Dashboard/screenshot/page1.png)
+![stack Overflow](http://lmsotfy.com/so.png)
 
